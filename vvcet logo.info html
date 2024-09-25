@@ -1,0 +1,188 @@
+<!DOCTYPE html>
+<html>
+<center>
+    <style>
+        img{
+            width: 40px;
+            height: 40px;
+            text-align: center;
+        }
+
+        nav-cust{
+                background-image: linear-gradient(#227ba5, #5b8197, #0c3045);
+                margin-bottom: 35px;
+            }
+            .image-logo{
+                width: 90px;
+                height: 90px;
+                text-align: center;
+            }
+            .btn-outline-success {
+                color: #000000;
+                border-color: #000000;
+            }
+
+    </style>
+    <a class="navbar-brand" href="#"><h1> <img src="./logo.png" class="image-logo"/></h1></a>
+    <h1 img src="C:\Users\ADMIN\Desktop\Veera Project.Html\VVCET.jpg.jpg"> Vidyaa Vikas College Of Engineering And Technology</h1>
+
+</center>
+
+<center>
+
+<form>
+    <body bgcolor="green" style="color: black">
+    <table>
+        <tr>
+            <td>Name:</td>
+            <td><input type="text" placeholder="Enter Your Name"> </td>
+        </tr>
+        <tr>
+            <td>Age:</td>
+            <td><input type="number" placeholder="Enter Your Age"></td>
+        </tr>
+        <tr>
+            <td>Gender:</td>
+            <td><select> 
+                <option></option>
+                    <option placeholder="select">Male</option>
+                    <option placeholder="select">Female</option>
+                    <option placeholder="select">Transgender</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Blood Type:</td>
+            <td><select>
+                <option></option>
+                <option placeholder="select">A+ve</option>
+                <option placeholder="select">A-Ve</option>
+                <option placeholder="select">B+ve</option>
+                <option placeholder="select">B-ve</option>
+                <option placeholder="select">O+ve</option>
+                <option placeholder="select">O-ve</option>
+                <option placeholder="select">ab+ve</option>
+                <option placeholder="select">ab-ve</option>
+            </select>
+
+            </td>
+        </tr>
+        <tr>
+            <td>Father Name:</td>
+            <td><input type="text" placeholder="Enter Your Father name"></td>
+        </tr>
+        <tr>
+            <td>Mother Name:</td>
+            <td><input type="text" placeholder="Enter Your Mother Name "></td>
+        </tr>
+        <tr>
+            <td>Religion:</td>
+            <td><select>
+                <option></option>
+                    <option placeholder="select">Hindu</option>
+                    <option placeholder="select">Christian</option>
+                    <option placeholder="select">Muslim</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Nation:</td>
+            <td><select>
+                    <option></option>
+                    <option>India</option>
+                    <option>Russian</option>
+                    <option>Sri Lanka</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Select Our State:</td>
+            <td><select>
+                <option></option>
+                <option>Andhra Pradesh</option>
+                <option>Arunachal Pradesh</option>
+                <option>Assam</option>
+                <option>Bihar</option>
+                <option>Chhattisgarh</option>
+                <option>Goa</option>
+                <option>Gujarat</option>
+                <option>Gujarat</option>
+                <option>Haryana</option>
+                <option>Himachal Pradesh</option>
+                <option>Himachal Pradesh</option>
+                <option>Karnataka</option>
+                <option>Keralam</option>
+                <option>Madhya Pradesh</option>
+                <option>Maharashtra</option>
+                <option>Manipur</option>
+                <option>Meghalaya</option>
+                <option>Mizoram</option>
+                <option>Nagaland</option>
+                <option>Odisha</option>
+                <option>Punjab</option>
+                <option>Rajasthan</option>
+                <option>Sikkim</option>
+                <option>Tamil Nadu</option>
+                <option>Telangana</option>
+                <option>Tripura</option>
+                <option>Uttar Pradesh</option>
+                <option>Uttarakhand</option>
+                <option>West Bengal</option>
+            </select>
+        </td>
+        </tr>
+        <tr>
+            <td>Address:</td> 
+            <td><input type="text" placeholder="Enter Your Address"></td>
+        </tr>
+        <tr>
+            <td>Upload your photo:</td>
+            <td><input type="file"> </td>
+        </tr>
+        <tr>
+            <td>Department:</td>
+            <td>
+                <select>
+                    <option></option>
+                    <option>CSE</option>
+                    <option>ECE</option>
+                    <option>EEE</option>
+                    <option>MBA</option>
+                    <option>MCA</option>
+                </select>
+            </td>
+        </tr>
+        <tr>
+            <td>Contact:</td>
+            <td><input type="number" placeholder="Enter the Number"></td>
+        </tr>
+        <tr>
+            <td>Email:</td>
+            <td><input type="email" placeholder="Enter Your Email"></td>
+        </tr>
+        <div>
+        <tr>
+            <td><button type="submit" class="btn btn-sm btn-success" >SUBMIT</button></td> 
+            <td><button type="reset" class="btn btn-sm btn-danger">RESET</button></td>
+        </tr>
+        </div>
+
+
+    </table>
+</form>
+</center>
+<center><br>
+  
+    <h2>Contact:04288 282 222   | Email:Principal(at)Vvcet.Ac.In<h2>
+    </center> 
+
+<center>
+
+<div>
+    <h3 style="background-color: white;">&copy 2024 All Rights Reserved.</h3>
+</div>
+
+</center>
+
+</html>
+
